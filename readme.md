@@ -10,7 +10,7 @@ __Date:__ July 2021
   
 ## Certificate  
 Here's my quantum excellence certificate for completing everything  
-[![QGSS 2021 Quantum Excellence Certificate](qgssqml2021_certificate.jpg)]  
+![QGSS 2021 Quantum Excellence Certificate](qgssqml2021_certificate.jpg)  
   
 And here's a screenshot of my summer school dashboard  
 [![QGSS 2021 Portal Screenshot](qgssqml2021_portal.jpg)](https://challenges.quantum-computing.ibm.com/qgss21)  
